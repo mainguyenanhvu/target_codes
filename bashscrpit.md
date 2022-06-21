@@ -18,5 +18,6 @@ fi
 #     exit $OUT
 # else
 ```
+Source: https://stackoverflow.com/questions/22009364/is-there-a-try-catch-command-in-bash
 # Logger
 https://github.com/Zordrak/bashlog

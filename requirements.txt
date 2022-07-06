@@ -1,0 +1,6 @@
+tensorflow==2.6.0
+keras==2.6
+tensorflow_decision_forests==0.1.9
+autopep8>=1.6.0
+colorlog>=6.6.0
+pyyaml>=6.0

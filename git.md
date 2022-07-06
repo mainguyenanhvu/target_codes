@@ -15,3 +15,7 @@ git lfs install
 git lfs track "*.m"
 git add .gitattributes
 ```
+# Undo a commit & redo
+```bash
+git reset HEAD~ 
+```
